@@ -5,5 +5,5 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/danidrd?tab=repositories"><img src="assets/snake.svg" alt="snake"></a>
+<a href="https://danidrd.com/"><img src="assets/snake.svg" alt="snake"></a>
 </div>
